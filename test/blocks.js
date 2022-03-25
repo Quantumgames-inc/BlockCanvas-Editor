@@ -6,7 +6,7 @@ import './blocks/lists.js';
 import './blocks/logic.js';
 import './blocks/loops.js';
 import './blocks/math.js';
-// import './blocks/procedures.js';
+import './blocks/playcanvasinitilize.js';
 import './blocks/text.js';
 import {createMinusField} from './field_minus';
 import {createPlusField} from './field_plus';
